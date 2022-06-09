@@ -1,2 +1,3 @@
 phqb/bar:
-  - file_to_sync.ts
+  - source: file_to_sync.ts
+    dest: file_to_sync.ts
