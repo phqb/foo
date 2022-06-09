@@ -1,4 +1,4 @@
 export type Foo = {
-  "foo": 42
+  "foo": 4242
 };
 
